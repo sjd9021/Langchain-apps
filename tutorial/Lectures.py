@@ -36,6 +36,8 @@ docs = []
 for loader in loaders:
     docs.extend(loader.load())
     
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size = 1000,
     chunk_overlap = 100
@@ -50,6 +52,7 @@ vectordb = FAISS.from_documents(
 )
 
 vectordb.save_local("dbs/documentation/faiss_index")
+vectordb = FAISS.load_local("tutorial/dbs/documentation/faiss_index", embedding)
 
 llm = AzureChatOpenAI(    
                   deployment_name=OPENAI_DEPLOYMENT_NAME,
@@ -81,6 +84,6 @@ qa = ConversationalRetrievalChain.from_llm(
     memory=memory,
     combine_docs_chain_kwargs={"prompt": QA_CHAIN_PROMPT}
 )
-question = "Does the course pre-requisites"
+question = "Who are the TA's for the course and what are their qualifications"
 result = qa.run(question)
 print(result)

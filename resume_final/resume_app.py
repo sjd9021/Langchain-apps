@@ -128,6 +128,9 @@ def main():
     #     retriever=vectordb.as_retriever(),
     #     chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}
     # )
+    
+    
+    
     qa = RetrievalQA.from_chain_type(
     llm=llm,
     chain_type='stuff',
@@ -136,8 +139,9 @@ def main():
         "prompt": QA_CHAIN_PROMPT,
         "memory": ConversationBufferMemory(
             memory_key="history",
-            input_key="question"),
+            input_key="question")
     }
+
 )
     while True:
         question = str(input("you: "))

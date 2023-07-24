@@ -1,0 +1,498 @@
+---
+name: ROHITH R
+phoneNumbers:
+- 9880481588
+websites:
+- ''
+emails(@):
+- rohith.r@zensar.com
+summary: Junior Software Engineer having 0.3 years of experience in Java, MVC, React, JavaScript, HTML, CSS and MySQL server.
+education:
+- University: SJB INSTITUTE OF TECHNOLOGY
+  degree: B.E (COMPUTER SCIENCE ENGINEERING)
+  fieldOfStudy: ''
+  startDate: 2022
+  endDate: ''
+workExperience:
+- company: Zensar
+  position: Junior Software Engineer
+  startDate: 2022
+  endDate: Till Date
+  description: |-
+    Worked on Panel Management System Application for Zensar Technologies as a Jr Software Engineer (Nov 2022 – Jan 2023)
+    ●Worked as Jr. Software Engineer with a team of 7 members.
+    ●Worked closely with BA for business requirements understanding and attending meetings for review on overall progress and assessment.
+    ●Worked upon developing the User Management and Panel Management Module UI using ReactJS (Redux).
+    ●Worked upon developing the Frontend UI using React Js (Redux)
+    ●Worked upon the frontend API (CRUD operations) 
+    ●Created Jest test cases for the project.
+    ●Worked on the API Intergration
+    ●Worked upon the database configuration using MySQL
+    ●Configuring the Eureka server and API Gateway for all the Microservices.
+skills:
+- primary skills: Java, Java CORE, Spring MVC, React JS, MySQL, HTML, CSS
+  secondary skills: ''
+certifications:
+- name: ''
+LinkedIn: https://www.linkedin.com/in/rohith-r-2214b0236
+Location: Pune, Maharashtra-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: Vaddadi Lalithanjali
+phoneNumbers:
+- +91 9110741733
+websites:
+- ''
+emails(@):
+- v.lalithanjali@zensar.com
+summary: Passionate Java Full Stack Developer with a strong foundation in programming skills with 0.7 years of experience. Demonstrated expertise in both front-end and back-end development, with a strong ability to collaborate effectively in team environments. Seeking an opportunity to contribute to innovative projects and expand my skills as a Java Full Stack Developer.
+education:
+- University: Gayatri Vidya Parishad College of Engineering(Autonomous)
+  degree: Bachelor of Technology in Computer Science and Engineering
+  fieldOfStudy: ''
+  startDate: 2018
+  endDate: 2022
+workExperience:
+- company: Zensar Technologies
+  position: Jr. Software Engineer
+  startDate: Nov 2022
+  endDate: Jan 2023
+  summary: 7 months of experience as a Jr. Software Engineer, specializing in full-stack development with expertise in React Js, Java and SQL. Proficient in Agile methodologies, coordinating with cross-functional teams to deliver high-quality software solutions within tight deadlines. Skilled in designing and developing scalable and maintainable applications, utilizing best coding practices and software development patterns. Strong problem-solving abilities, demonstrated through successfully troubleshooting and resolving complex technical issues. Experience in working with cloud platforms, such as AWS deploying applications.
+  keyActivities:
+  - Requirements Gathering and Analysis: Coordinating with business requirement heads to understand their needs and gather requirements for the panel management application. Utilizing tools such as teams call to analyze business requirements.
+  - Implementing the user interface of the panel management application using front-end technologies such as HTML, CSS, Bootstrap and JavaScript frameworks like React Ensuring responsive design, usability, and accessibility.
+  - Building the server-side logic and APIs to handle data management, authentication, and business logic. Utilizing back-end technologies like Spring Boot.
+  - Designing and implementing database schema and models for storing panel member information, event data, and application settings. Using relational databases like MySQL.
+  - Integrated and deployed the panel management application using Jenkins and docker.
+  technologies:
+  - Tools: Spring Tool Suite, Visual Studio Code, Postman, MySQL Workbench, Jenkins and Docker.
+  - Technologies: Java, SpringBoot, React Js.
+  - Skills: Full Stack Development, Devops.
+skills:
+- primary skills: Java Full Stack
+  secondary skills: Spring Tool Suite, Visual studio code, Postman, GitHub Jenkins, Docker, AWS
+certifications:
+- name: ''-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+---------------------------------------------------------------------
+
+---
+name: Ankit Kamanalli
+phoneNumbers:
+- 9741184636
+websites:
+- https://www.linkedin.com/in/ankit-kamanalli-68492b171
+emails(@):
+- a.kamanalli@zensar.com
+summary: Highly skilled and motivated Full-stack Developer with expertise in Java, Python3, React.js, and Azure DevOps, with a strong background in software development and a passion for building scalable and efficient applications.
+education:
+- University: Bangalore Institute of Technology
+  degree: B.E (Electronics and Communication and Engineering)
+  fieldOfStudy: 
+  - Core Competencies
+  startDate: 2018
+  endDate: 2022
+workExperience:
+- company: Zensar Technologies
+  position: Junior Software Engineer
+  startDate: Nov 2022
+  endDate: Present
+  skills:
+  - primary skills: Core Java, Spring Boot, React, MySQL, HTML, CSS, JavaScript, JUnit, Mockito, Git, AWS, Docker, Jenkins
+    secondary skills: 
+  certifications:
+  - name: 
+    projects:
+    - name: Panel Management
+      description: The Panel Management Application provides streamlines recruitment process, automating workflows and leveraging modern technologies. It includes features such as job requisition, application tracking and candidate sourcing capabilities. The system enhances efficiency, attracting top talent for organizational success.
+      role: Junior Software Engineer
+      startDate: Nov 2022
+      endDate: Jan 2023
+      keyActivities:
+      - Constructed the backend using Java, Spring Boot, and MySQL.
+      - Created an attractive UI using HTML, CSS, JavaScript, and ReactJS.
+      - Worked on login functionality and user authentication based on their roles.
+      - Designed and executed JUnit and Jest test cases.
+      - Created a build pipeline using Jenkins and deployed the application on Docker.
+      technologySkillsTools:
+      - Tools: STS (Spring Tool Suite), MySQL Workbench, Visual Studio Code, Postman, Jenkins, GitHub, Docker.
+      - Technologies: Java, Spring Boot, React, MySQL Server.
+      - Skills: Core Java, Spring Boot, React, JUnit, Git
+    - name: AI Buddy
+      description: This chat-bot leverages advanced algorithms and language parsing techniques to analyze code written in a specific language and convert it seamlessly into another supported language. Whether you have code on GitHub or your local machine, the chat-bot can efficiently translate it, ensuring a smooth transition between programming languages.
+      role: Junior Software Engineer
+      startDate: May 2023
+      endDate: Present
+      keyActivities:
+      - Created batch processing mechanism using Python and Azure Open AI.
+      - Worked on documenting and automating test cases for Django and Flask applications.
+      - Created azure pipeline for CI-CD of Java application which pulls the code from Azure Repo.
+      technologySkillsTools:
+      - Tools: Visual Studio Code, STS, MySQL Workbench, Azure Repo.
+      - Technologies: Java, Python 3, ReactJS, Open AI.
+      - Skills: Batch Processing, DevOps, Azure.
+
+    
+---
+name: M MOUNICA
+phoneNumbers:
+- 9590401246
+websites:
+- ''
+emails(@):
+- m.mounica@zensar.com
+summary: Passionate Java Full Stack Developer with a strong foundation in programming skills. Demonstrated expertise in both front-end and back-end development, with a strong ability to collaborate effectively in team environments. Seeking an opportunity to contribute to innovative projects and expand my skills as a Java Full Stack Developer.
+education:
+- University: SJB Institute Of Technology, Bengaluru
+  degree: B.E (Information Science and Engineering)
+  fieldOfStudy: ''
+  startDate: 2018
+  endDate: 2022
+workExperience:
+- company: Zensar Technologies
+  position: Jr. Software Engineer
+  startDate: Nov 2022
+  endDate: Jan 2023
+  summary: 7 months of experience as a Jr. Software Engineer, specializing in full-stack development with expertise in React Js, Java and SQL. Proficient in Agile methodologies, coordinating with cross-functional teams to deliver high-quality software solutions within tight deadlines. Skilled in designing and developing scalable and maintainable applications, utilizing best coding practices and software development patterns. Strong problem-solving abilities, demonstrated through successfully troubleshooting and resolving complex technical issues. Experience in working with cloud platforms, such as AWS deploying applications.
+  keyActivities:
+  - Requirements Gathering and Analysis: Coordinating with business requirement heads to understand their needs and gather requirements for the panel management application. Utilizing tools such as teams call to analyze business requirements.
+  - Implementing the user interface of the panel management application using front-end technologies such as HTML, CSS, Bootstrap and JavaScript frameworks like React Ensuring responsive design, usability, and accessibility.
+  - Building the server-side logic and APIs to handle data management, authentication, and business logic. Utilizing back-end technologies like Spring Boot.
+  - Designing and implementing database schema and models for storing panel member information, event data, and application settings. Using relational databases like MySQL.
+  - Integrated and deployed the panel management application using Jenkins and docker.
+skills:
+- primary skills: Full-Stack Development
+  secondary skills: Devops
+certifications:
+- name: ''
+LinkedIn: https://www.linkedin.com/in/mounica-ramesh-371a34200
+domainsTechnicalTools: Spring Tool Suite, Visual studio code, Postman, GitHub
+databases: MySQL
+bug/issue-TrackingSystem: Junit testing using Mockito Jest test cases in Front-end
+programmingSkills: Java, React Js, SQL, HTML, CSS, Python
+expertise: Full-Stack Development: Efficient in both front-end and back-end development, with expertise in programming languages like Java, frameworks and tools such as Spring Tool Suite, Visual Studio Code, Postman, MySQL Workbench, Jenkins and Docker. Agile Methodologies: Experienced in working with Agile software development methodologies such as Scrum, collaborating with cross-functional teams and delivering high-quality software in iterative cycles. Database Management: Experience in working with relational databases (MySQL). Cloud Computing: Familiarity with Amazon Web Services (AWS). Software Testing and Quality Assurance: Proficient in writing Junit tests using Mockito and Jest test cases in frontend.-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: Prasad Teja Durga
+phoneNumbers:
+- +91 7995119175
+websites:
+- ''
+emails(@):
+- p.durgapeddinti@zensar.com
+summary: Eager and knowledgeable Java Full Stack Developer with a good foundation in Java programming, adept at both front-end and back-end development, seeking opportunities to contribute to the creation of robust and scalable web applications.
+education:
+- University: RAGHU ENGINEERING COLLEGE(Autonomous)
+  degree: Bachelor of Technology
+  fieldOfStudy: Electronics and Communication Engineering
+  startDate: 2018
+  endDate: 2022
+workExperience:
+- company: Zensar Technologies
+  position: Jr. Software Engineer
+  startDate: Nov 2022
+  endDate: Jan 2023
+  summary: The Panel Management Application project aims to create a user-friendly software application for managing and administering panels effectively. The application will provide a centralized platform for organizing, coordinating, and engaging with panel members across different domains. The application makes the work of Talent Acquisition team easy and efficient.
+  keyActivities:
+  - Requirements Gathering and Analysis: Coordinating with business requirement heads to understand their needs and gather requirements for the panel management application. Utilizing tools such as teams call to analyze business requirements.
+  - Implementing the user interface of the panel management application using front-end technologies such as HTML, CSS, Bootstrap and JavaScript frameworks like React Ensuring responsive design, usability, and accessibility.
+  - Building the server-side logic and APIs to handle data management, authentication, and business logic. Utilizing back-end technologies like Spring Boot.
+  - Designing and implementing database schema and models for storing panel member information, event data, and application settings. Using relational databases like MySQL.
+  - Integrated and deployed the panel management application using Jenkins and docker.
+skills:
+- primary skills: Java Full Stack
+  secondary skills: Spring Tool Suite, Visual studio code, Postman, GitHub Jenkins, Docker, AWS, MySQL, Junit testing using Mockito, Jest test cases in frontend
+certifications:
+- name: ''-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: RAMYA R
+phoneNumbers:
+- 7022750017
+websites:
+- https://www.linkedin.com/in/ramya-hebbar-a41955188
+emails(@):
+- 
+summary: Experienced Junior Software Engineer skilled in Core Java, Spring Boot, React, and MySQL. Proficient in AWS and DevOps methodologies, with a focus on backend development.
+education:
+- University: SJB Institute Of Technology, Bengaluru
+  degree: B.E (Computer Science and Engineering)
+  fieldOfStudy: 
+  startDate: 2018
+  endDate: 2022
+workExperience:
+- company: Organization
+  position: Junior Software Engineer
+  startDate: Nov 2022
+  endDate: Jan 2023
+  summary: The Talent Acquisition System streamlines recruitment processes, automating workflows and leveraging modern technologies. It includes features such as job requisition, applicant tracking and candidate sourcing capabilities. The system enhances efficiency, attracting top talent for organizational success.
+  achievements: Recognized for exceptional efforts and impactful contributions, ensuring client satisfaction by delivering high-quality software solutions, custom features, and seamless integrations.
+  keyActivities:
+  - Constructed the backend using Java, Spring Boot, and MySQL.
+  - Created an intuitive frontend UI using HTML, CSS, JavaScript, and React.
+  - Implemented form creation and comprehended user requirements effectively.
+  - Designed and executed JUnit and Mockito test cases.
+  - Configured the MySQL database.
+  - Utilized API Gateway for seamless integration.
+  - Employed Swagger for API documentation.
+  - Created a build pipeline using Jenkins and deployed the application on Docker.
+skills:
+- primary skills: Core Java, Spring Boot, React
+  secondary skills: JUnit, Git, MySQL Server
+certifications:
+- name: 
+  date: 
+  organization: 
+  credential: 
+  licenseNumber: 
+  expirationDate: 
+  url: 
+  verificationNumber: 
+  verificationUrl: 
+  issuer: 
+  location: 
+  description: 
+  summary: 
+  skills: 
+  - 
+  - 
+  ------------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: Sanya Garg
+phoneNumbers:
+- 7022401957
+websites:
+- https://www.linkedin.com/in/sanya-garg-7a45bb195
+emails(@):
+- s.garg@zensar.com
+summary: Junior Software Engineer
+education:
+- University: 
+  degree: 
+  fieldOfStudy: 
+  startDate: 
+  endDate: 
+workExperience:
+- company: 
+  position: 
+  startDate: 
+  endDate: 
+skills:
+- primary skills: Domains Technical (Java Full Stack)
+  secondary skills: Tools STS, VS Code, Postman, Swagger, Jacoco, Github, Jenkins, Docker, AWS DevOps Tools, Databases MySQL, Programming skillsJAVA C, C++, Python
+certifications:
+- name:-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: Shiva Reddy M V
+phoneNumbers:
+- 9902879020
+websites:
+- ''
+emails(@):
+- shivareddy.mv@zensar.com
+summary: Jr. Software Engineer having less than 1 year of experience in Java, Spring MVC, Spring Boot, React, Bootstrap, HTML, CSS and MySQL server.
+education:
+- University: SJB Institute Of Technology
+  degree: B.E (Computer Science and Engineering)
+  fieldOfStudy: ''
+  startDate: 2019
+  endDate: 2022
+workExperience:
+- company: Zensar Technologies
+  position: Jr. software Engineer
+  startDate: 2022
+  endDate: Till Date
+  description: Worked on an internal project related to Talent Acquisition that handles the hiring process of a new candidate as a Java fullstack developer. As a full-stack developer, I worked on constructing the backend using Java, Spring boot, and MySQL as well as frontend using HTML, CSS, Javascript, and React. Involved in comprehending user requirements and user stories. Involved in creating the forms using HTML, CSS, Javascript and React for frontend UI. Involved in understanding the user stories and user requirements. Created Junit and Mockito test cases for the project. Worked upon the database configuration using MySQL. Used Eureka Server and API Gateway for the project. Integrated the Flyway Migration Tool. Used Swagger for the API documentation. Involved in the team work.
+skills:
+- primary skills: Java, Spring boot, React, Junit testing, GIT
+  secondary skills: HTML, CSS, Spring MVC, Bootstrap and MySQL server.
+certifications:
+- name: NA
+location: Pune
+LinkedIn: https://www.linkedin.com/in/shiva-reddy-m-v-7128371a0
+PHOTO: ''-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+---
+name: Venkat Hemanth K
+phoneNumbers:
+- 9380585796
+websites:
+- https://www.linkedin.com/in/venkat-hemanth-k-92621a1ba
+emails(@):
+- venkat.k1@zensar.com
+summary: A Junior Software Engineer skilled in Core Java, React.js, and AWS Cloud capable of building full-stack web applications. A passion for building efficient and delivering high-quality web applications that meet user needs and exceed expectations.
+education:
+- University: Bangalore Institute of Technology
+  degree: B.E (Electronics And Communication Engineering)
+  fieldOfStudy: Core
+  startDate: 2022
+  endDate: 
+workExperience:
+- company: Zensar Technologies
+  position: Jr. Software Engineer
+  startDate: Nov 2022
+  endDate: Present
+  summary: Developed and launched a successful web application that gained significant user adoption and positive feedback. Recognized for contributions and exceptional efforts.
+  achievements:
+  - Developing and launching a successful web application that gained significant user adoption and positive feedback
+  - Recognized for contributions and exceptional efforts
+  projects:
+  - name: Panel Management System
+    description: The Panel Management System streamlines recruitment processes, automating workflows and leveraging modern technologies. It includes features such as job requisition, applicant tracking and candidate sourcing capabilities. The system enhances efficiency, attracting top talent for organizational success.
+    role: Jr. Software Engineer
+    startDate: Nov 2022
+    endDate: Jan 2023
+    keyActivities:
+    - Worked on an internal project related to Talent Acquisition that handle the hiring process of a new candidate as a java full stack developer
+    - Constructed the backend using Java, Spring Boot, and MySQL
+    - Created an intuitive frontend UI using HTML, CSS, JavaScript, and React
+    - Implemented form creation and comprehended user requirements effectively
+    - Created Jest test cases for Frontend and Junit test cases for Backend
+    - Configured the MySQL database
+    - Utilized API Gateway for seamless integration
+    - Employed Swagger for API documentation
+    - Created a build pipeline using Jenkins and deployed the application on Docker
+skills:
+- primary skills: Core Java, React, SpringBoot, MySQL
+  secondary skills: HTML, CSS, JavaScript, JUnit, Git, AWS Cloud, Docker
+certifications:
+- name:-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+

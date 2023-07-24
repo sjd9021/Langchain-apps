@@ -43,12 +43,12 @@ def main():
         data = str(data)
         
     text_splitter = CharacterTextSplitter(
-        separator=" ", chunk_size=1000, chunk_overlap=200, length_function=len
+        separator=" ",chunk_size=1500, chunk_overlap = 300
     )
     splits = text_splitter.split_text(data)
     # for i in splits:
     #     print(i)
-    #     print("---------------------------------------------------------------------------------")
+    #     print("\n\n\n\n\n")
     embedding=OpenAIEmbeddings(deployment=OPENAI_EMBEDDING_DEPLOYMENT_NAME,model=OPENAI_EMBEDDING_MODEL_NAME, chunk_size=1)
     vectordb = FAISS.from_texts(
     texts=splits,
