@@ -97,7 +97,7 @@ def main():
   
     embeddings=OpenAIEmbeddings(deployment=OPENAI_EMBEDDING_DEPLOYMENT_NAME,model=OPENAI_EMBEDDING_MODEL_NAME, chunk_size=1)
     vectordb =  FAISS.load_local("database/documentation/faiss_index", embeddings)
-    template = """You are Talent Acquisition bot, Your job is to find out details about candidates from their resumes and suggest Suitable Candidates. Use the given context to answer the question below. If you don't know the answer, just say that you don't know, don't try to make up an answer. Use three sentences maximum. Keep the answer as concise as possible. Always say "thanks for asking!" at the end of the answer. 
+    template = """You are Talent Acquisition bot, Your job is to find out details about candidates from their resumes and suggest Suitable Candidates. Use the given context to answer the question below. If you don't know the answer, just say that you don't know, don't try to make up an answer. Keep the answer as concise as possible. Always say "thanks for asking!" at the end of the answer. 
     {context}
     ---------
     {history}
